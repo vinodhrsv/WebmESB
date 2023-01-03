@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">XlsToXlsx</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">CQ0KSURhdGFDdXJzb3IgcGlwZWxpbmVDdXJzb3IgPSBwaXBlbGluZS5nZXRDdXJzb3IoKTsNClN0
+cmluZyBmaWxlTmFtZVhscyA9IElEYXRhVXRpbC5nZXRTdHJpbmcocGlwZWxpbmVDdXJzb3IsICJm
+aWxlTmFtZVhscyIpOw0KU3RyaW5nIGNvbnZlcnRlZEZpbGVOYW1lID0gbnVsbDsNCnRyeSB7IA0K
+CWNvbnZlcnRlZEZpbGVOYW1lID0gY29udmVydFhscyggcGlwZWxpbmUsZmlsZU5hbWVYbHMpOw0K
+fSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsNCgkvLyBUT0RPIEF1dG8tZ2VuZXJhdGVkIGNhdGNoIGJs
+b2NrDQoJZS5wcmludFN0YWNrVHJhY2UoKTsNCn0NCgkJDQpJRGF0YVV0aWwucHV0KHBpcGVsaW5l
+Q3Vyc29yLCAiZmlsZU5hbWVYbHN4IiwgY29udmVydGVkRmlsZU5hbWUpOw0KcGlwZWxpbmVDdXJz
+b3IuZGVzdHJveSgpOw==</value>
+</Values>

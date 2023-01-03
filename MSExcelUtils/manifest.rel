@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">MSExcelUtils_28122022</value>
+  <value name="version">1.0</value>
+  <value name="build"></value>
+  <value name="patch_nums"></value>
+  <value name="description"></value>
+  <value name="target_pkg_version">1.0</value>
+  <value name="jvm_version">11.0.16</value>
+  <value name="source_server_version">10.11.0.0</value>
+  <value name="target_server_version">10.11.0.0</value>
+  <value name="time">2022-12-28 03:39:10 UTC</value>
+  <value name="type">full</value>
+  <null name="retainPatchHistory"/>
+  <value name="target_pkg_name">MSExcelUtils</value>
+  <value name="publisher">ITSAZDEVESB002.ITSFINDEV.com</value>
+  <array name="files_to_delete" type="value" depth="1">
+  </array>
+</Values>

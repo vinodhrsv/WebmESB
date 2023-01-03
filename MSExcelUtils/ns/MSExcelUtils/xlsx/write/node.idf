@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="shared">cHJpdmF0ZSBzdGF0aWMgU3RyaW5nIGZpbGU9ImZpbGUiOwpwcml2YXRlIHN0YXRpYyBTdHJpbmcg
+Ynl0ZXM9ImJ5dGVzIjsKcHJpdmF0ZSBzdGF0aWMgU3RyaW5nIHN0cmVhbT0ic3RyZWFtIjs=</value>
+  <value name="encodeutf8">true</value>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+  <array name="imports" type="value" depth="1">
+    <value>java.io.ByteArrayOutputStream</value>
+    <value>java.io.FileOutputStream</value>
+    <value>java.io.IOException</value>
+    <value>org.apache.poi.xssf.usermodel.XSSFCell</value>
+    <value>org.apache.poi.xssf.usermodel.XSSFRow</value>
+    <value>org.apache.poi.xssf.usermodel.XSSFSheet</value>
+    <value>org.apache.poi.xssf.usermodel.XSSFWorkbook</value>
+  </array>
+</Values>
